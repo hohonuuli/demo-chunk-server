@@ -9,3 +9,5 @@ docker run -p 8080:8080 hohonuuli/demo-chunk-server
 ```
 
 Then point your browser or HTTP tool at <http://localhost:8080/chunk/10>. The `10` in the URL represents the number of chunks that the server will respond with.
+
+Swagger docs are available when running the server at <http://localhost:8080/swagger/demo-chunk-server-0.1.0.yml>
