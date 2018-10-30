@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: demo.chunk.server
+---
+testFramework: junit
+sourceLanguage: java
